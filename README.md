@@ -1,6 +1,5 @@
 <h1>React Todo List </h1>
-This project is a simple React todo list application built using the useState hook. It allows users to add, edit, and delete tasks, providing a straightforward and intuitive interface for managing tasks.
-
+This project is a simple React todo list application that leverages the power of useState, useEffect, and useRef hooks. These hooks enhance the functionality of the todo list, making it more dynamic and interactive.
 <h2>Features</h2>
 - Add Task: Users can add new tasks to the list by entering a task description and clicking the "Add" button.
 - Edit Task: Tasks can be edited by clicking on the task text, making it easy to update task details.
